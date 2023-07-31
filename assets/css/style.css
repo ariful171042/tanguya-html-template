@@ -1,0 +1,6 @@
+@import url("https://fonts.maateen.me/kalpurush/font.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.12/css/lightgallery.min.css");
+body {
+  font-family: "Kalpurush", Arial, sans-serif;
+  overflow-x: hidden;
+}
